@@ -1,0 +1,35 @@
+@import url(bootstrap.min.css);
+@import url(font-awesome.min.css);
+
+.table-row {
+	color: #fff;
+	background-color: #5a7;
+}
+#logo { color: #ffffff; }
+.jumbotron {
+	margin-top: 10%;
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0);
+}
+.service-box {text-align: center;}
+footer { text-align: center;}
+/*p { color: #f55; font-size: 24px; text-shadow: 2px 3px #040; }
+*/
+#special { color:#55f; }
+#welcome { 
+	background-image: url(../images/car2.gif); 
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+ul { list-style-type:none; }
+ul li { display: inline; }
+html, body { height: 100%; }
+.full-height { 
+	height:100%;
+	 }
+.nav a {
+	color: #888;
+	font-size: 2em; 
+	text-shadow: 0.5px 0.5px #fff;
+}
